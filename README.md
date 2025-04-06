@@ -21,9 +21,19 @@ python ui.py
 
  
 
- 
+ ![image](https://github.com/user-attachments/assets/c563c368-ea52-46ab-8f11-690ef269689c)
+
 
  
+ ![image](https://github.com/user-attachments/assets/f9fffb22-ffa6-459c-b548-8fdbc07c32a0)
+
+
+ ![image](https://github.com/user-attachments/assets/ea598c2b-c924-424d-b87c-88a1ea03ea51)
+
+
+![image](https://github.com/user-attachments/assets/c3bb1e02-df12-4c7f-929b-6392bb669428)
+
+
 
  
 
